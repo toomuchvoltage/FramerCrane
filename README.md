@@ -10,6 +10,10 @@ Fill convention is do-not-care.
 
 Ms. Constantine... if you're reading this... I miss you :)
 
+# FramerCrane? Frasier Crane? Frasier ... ?
+
+Yup :)
+
 # How to run
 
 Install JDK and use Appletviewer like so:
