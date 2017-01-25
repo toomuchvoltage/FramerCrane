@@ -4,7 +4,7 @@
 
 FramerCrane is a 3D design Java applet with an internal software rasterizer which has a 64bit double z-buffer.
 
-I skipped 3 days in high school to write and hand this in as my comp sci class project.
+I skipped 3 days in high school 12.5 years ago to write and hand this in as my comp sci class project.
 
 Fill convention is do-not-care.
 
